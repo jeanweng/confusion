@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./public/static/css/main.84654434.chunk.css",
-    "main.js": "./public/static/js/main.0a7b8a09.chunk.js",
-    "main.js.map": "./public/static/js/main.0a7b8a09.chunk.js.map",
-    "runtime-main.js": "./public/static/js/runtime-main.8a933e77.js",
-    "runtime-main.js.map": "./public/static/js/runtime-main.8a933e77.js.map",
-    "static/css/2.8a445bc5.chunk.css": "./public/static/css/2.8a445bc5.chunk.css",
-    "static/js/2.04297fa9.chunk.js": "./public/static/js/2.04297fa9.chunk.js",
-    "static/js/2.04297fa9.chunk.js.map": "./public/static/js/2.04297fa9.chunk.js.map",
-    "index.html": "./public/index.html",
-    "static/css/2.8a445bc5.chunk.css.map": "./public/static/css/2.8a445bc5.chunk.css.map",
-    "static/css/main.84654434.chunk.css.map": "./public/static/css/main.84654434.chunk.css.map",
-    "static/js/2.04297fa9.chunk.js.LICENSE.txt": "./public/static/js/2.04297fa9.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "./public/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/confusion/static/css/main.84654434.chunk.css",
+    "main.js": "/confusion/static/js/main.08ed5670.chunk.js",
+    "main.js.map": "/confusion/static/js/main.08ed5670.chunk.js.map",
+    "runtime-main.js": "/confusion/static/js/runtime-main.42791ef6.js",
+    "runtime-main.js.map": "/confusion/static/js/runtime-main.42791ef6.js.map",
+    "static/css/2.cdab4b69.chunk.css": "/confusion/static/css/2.cdab4b69.chunk.css",
+    "static/js/2.e82eb4fe.chunk.js": "/confusion/static/js/2.e82eb4fe.chunk.js",
+    "static/js/2.e82eb4fe.chunk.js.map": "/confusion/static/js/2.e82eb4fe.chunk.js.map",
+    "index.html": "/confusion/index.html",
+    "static/css/2.cdab4b69.chunk.css.map": "/confusion/static/css/2.cdab4b69.chunk.css.map",
+    "static/css/main.84654434.chunk.css.map": "/confusion/static/css/main.84654434.chunk.css.map",
+    "static/js/2.e82eb4fe.chunk.js.LICENSE.txt": "/confusion/static/js/2.e82eb4fe.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/confusion/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a933e77.js",
-    "static/css/2.8a445bc5.chunk.css",
-    "static/js/2.04297fa9.chunk.js",
+    "static/js/runtime-main.42791ef6.js",
+    "static/css/2.cdab4b69.chunk.css",
+    "static/js/2.e82eb4fe.chunk.js",
     "static/css/main.84654434.chunk.css",
-    "static/js/main.0a7b8a09.chunk.js"
+    "static/js/main.08ed5670.chunk.js"
   ]
 }
