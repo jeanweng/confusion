@@ -3,7 +3,7 @@ import { Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem, Jumbotron, 
 import { NavLink } from 'react-router-dom';
 
 class Header extends Component {
-	
+
 	constructor(props){
 		super(props);
 
@@ -42,7 +42,7 @@ class Header extends Component {
 		          <div className="container">
 		          <NavbarToggler onClick={this.toggleNav} />
 		            <NavbarBrand className="mr-auto" href="/">
-		            	<img src="assets/images/logo.png" height="30" width="41" alt="Ristorante Con Fuision" />
+		            	<img src="confusion/assets/images/logo.png" height="30" width="41" alt="Ristorante Con Fuision" />
 		            </NavbarBrand>
 		            <Collapse isOpen={this.state.isNavOpen} navbar>
 			            <Nav navbar>
@@ -93,7 +93,7 @@ class Header extends Component {
 		        		<Form onSubmit={this.handleLogin}>
 		        			<FormGroup>
 		        				<Label htmlFor="username">Username</Label>
-		        				<Input type="text" id="username" name="username" 
+		        				<Input type="text" id="username" name="username"
 		        				innerRef={(input) => this.username = input}/>
 		        			</FormGroup>
 		        			<FormGroup>
@@ -103,7 +103,7 @@ class Header extends Component {
 		        			</FormGroup>
 		        			<FormGroup check>
 		        				<Label check>
-		        					<Input type="checkbox" name="remember" 
+		        					<Input type="checkbox" name="remember"
 		        					innerRef={(input) => this.remember = input}/>
 		        					Remember me
 		        				</Label>
